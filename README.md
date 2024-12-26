@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Sai Siva Krishna Yenduri</h1>
-<h3 align="center">An Enthusiatic IT Wizard from India IN</h3>
+<h3 align="center">Passionate Devops Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesivayenduri&label=Profile%20views&color=0e75b6&style=flat" alt="mesivayenduri" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Linux, AWS, Python, Docker, Kubernetes & Terraform**
 
-- ⚡ Fun fact **I might seem lazy, but my brain always works around the clock. 😁**
+- ⚡ Fun fact **😁**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
