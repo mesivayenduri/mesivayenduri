@@ -1,34 +1,60 @@
-<h1 align="center">Hi 👋, This is Sai Siva Krishna Yenduri</h1>
-<h3 align="center">An Enthusiatic IT Wizard from India IN</h3>
+# Hi there! 👋 I'm [Your Name]  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mesivayenduri&label=Profile%20views&color=0e75b6&style=flat" alt="mesivayenduri" /> </p>
+Welcome to my GitHub profile! I am a passionate **DevOps Engineer** with expertise in automating workflows, managing cloud infrastructure, and enhancing system reliability. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mesivayenduri" alt="mesivayenduri" /></a> </p>
+---
 
-- 🔭 I’m currently working as **Devops/SRE**
+![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub)  
 
-- 🌱 I’m currently learning **Ansible**
+---
 
-- 📝 I regularly write articles on [https://medium.com/@me.sivayenduri](https://medium.com/@me.sivayenduri)
+## 🚀 About Me  
+- 🔧 Specializing in DevOps practices with a strong foundation in Kubernetes, Docker, and Linux.
+- ☁️ Experienced in building and managing scalable infrastructure on **AWS**.
+- 🐍 Proficient in **Python** scripting for automation and tooling.
+- 🛠️ Skilled in designing CI/CD pipelines and enhancing software delivery performance.
 
-- 💬 Ask me about **Linux, AWS, Python, Docker, Kubernetes & Terraform**
+---
 
-- ⚡ Fun fact **I might seem lazy, but my brain always works around the clock. 😁**
+## 🛠️ My Tech Stack  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### DevOps & Cloud Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@me.sivayenduri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@me.sivayenduri" height="30" width="40" /></a>
-</p>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mesivayenduri&show_icons=true&locale=en&layout=compact" alt="mesivayenduri" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mesivayenduri&show_icons=true&locale=en" alt="mesivayenduri" /></p>
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mesivayenduri&" alt="mesivayenduri" /></p>
+---
+
+## 📘 My Latest Blog Posts  
+
+- [Building CI/CD Pipelines in GitLab](#)
+- [Deploying Kubernetes on AWS with Terraform](#)
+- [Getting Started with Docker and Containers](#)
+
+---
+
+## 🤝 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-medium-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)  
+
+---
+
+![Footer Image](https://via.placeholder.com/1200x150.png?text=Thank+You+for+Visiting!)
