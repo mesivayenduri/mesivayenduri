@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Linux, AWS, Python, Docker, Kubernetes & Terraform**
 
-- ⚡ Fun fact **😁**
+- ⚡ Fun fact ** Gamer 🎮🕹️🎮🕹️😁🎮🕹️🎮🕹️**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
